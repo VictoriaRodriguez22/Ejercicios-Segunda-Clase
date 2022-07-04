@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(233, 200, 216);
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  margin: 0 auto;
+  border: 4px dotted blueviolet;
+}
+.Encabezado {
+  display: block;
+  padding: 10px;
+  margin-top: 15px;
+  border: 3px solid red;
+}
+
+.Cuerpo {
+  display: flex;
+}
+
+.Contenido-Uno,
+.Contenido-Dos {
+  margin-top: 40px;
+  margin-left: 15px;
+  border: 2px solid blue;
+}
+
+.Texto-Final {
+  display: block;
+  padding: 40px;
+  border: 10px dotted rgb(49, 24, 28);
+}
